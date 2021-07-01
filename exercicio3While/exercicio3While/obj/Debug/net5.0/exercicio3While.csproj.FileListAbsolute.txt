@@ -1,0 +1,15 @@
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\exercicio3While.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\exercicio3While.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\exercicio3While.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\exercicio3While.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\exercicio3While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\ref\exercicio3While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\bin\Debug\net5.0\exercicio3While.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\ref\exercicio3While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio3While\exercicio3While\obj\Debug\net5.0\exercicio3While.genruntimeconfig.cache

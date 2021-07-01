@@ -1,0 +1,16 @@
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\exercicio2While.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\exercicio2While.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\exercicio2While.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\exercicio2While.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\exercicio2While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\ref\exercicio2While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\bin\Debug\net5.0\exercicio2While.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.csprojAssemblyReference.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\ref\exercicio2While.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\exercícios\exerciciosEstruturas\estruturaWhile\exercicio2While\exercicio2While\obj\Debug\net5.0\exercicio2While.genruntimeconfig.cache
